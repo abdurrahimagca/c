@@ -1,3 +1,4 @@
+//47-121 arasındaki 5 ve 3'ün katlarını ekrana basan program.
 #include<stdio.h>
 
 int main(void)

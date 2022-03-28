@@ -1,3 +1,4 @@
+//kullanıcı tarafından girilen 5 sayının ortalamasını hesaplayan program
 #include<stdio.h>
 
 int main (void)
